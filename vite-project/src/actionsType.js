@@ -1,0 +1,15 @@
+export const ADD_INITIAL = 'ADD_INITIAL'
+export const ADD_VALUE_INPUT = 'ADD_VALUE_INPUT'
+export const ADD_ITEM = 'ADD_ITEM'
+export const DELETE_ITEM = 'DELETE_ITEM'
+export const IS_LIKE = 'IS_LIKE'
+export const SET_FILTER = 'SET_FILTER'
+export const ADD_VALUE_INPUT_CAT = 'ADD_VALUE_INPUT_CAT'
+export const ADD_VALUE_INPUT_DIS = 'ADD_VALUE_INPUT_DIS'
+export const ADD_VALUE_INPUT_PRICE = 'ADD_VALUE_INPUT_PRICE'
+export const ADD_INITIAL_STATE_CAT = 'ADD_INITIAL_STATE_CAT'
+export const SET_FILTER_CAT = 'SET_FILTER_CAT'
+export const SEARCH_ITEM = 'SEARCH_ITEM'
+export const SEARCH = 'SEARCH'
+
+  
